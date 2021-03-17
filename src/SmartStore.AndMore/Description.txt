@@ -1,0 +1,10 @@
+﻿FriendlyName: SmartStoreAndMore
+SystemName: SmartStore.AndMore
+Group: Admin
+Version: 4.1.0
+MinAppVersion: 4.1.0
+Author: SmartStore
+DisplayOrder: 1
+FileName: SmartStore.AndMore.dll
+ResourceRootKey: Plugins.SmartStore.AndMore
+Url: 
